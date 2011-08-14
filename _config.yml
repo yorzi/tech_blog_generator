@@ -4,13 +4,13 @@
 
 url: http://yorzi.github.com
 title: Andy Wang's Blog
-subtitle: All about Ruby/Rails/Javascript/CoffeeScript
+subtitle: All About Ruby/Rails/Javascript/CoffeeScript/iOS/Ubuntu
 author: Andy Wang
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: wangyaodi@gmail.com
 # RSS feeds can list your email address if you like
 email: wangyaodi@gmail.com
 
@@ -31,11 +31,11 @@ markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10 # Posts per page on the blog index
-recent_posts: 5 # Posts in the sidebar Recent Posts section
+recent_posts: 8 # Posts in the sidebar Recent Posts section
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html]
+default_asides: [asides/recent_posts.html, asides/twitter.html, asides/delicious.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -71,4 +71,4 @@ delicious_count: 3
 disqus_short_name: andywangshome
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-17239385-1

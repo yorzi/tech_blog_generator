@@ -2,7 +2,6 @@
 .sass-cache
 _deploy
 _import
-_posts
 public/**/*
 source/.DS_Store
 
