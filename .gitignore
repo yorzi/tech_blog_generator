@@ -1,3 +1,6 @@
 .bundle
 .sass-cache
 _deploy
+_import
+_posts
+
