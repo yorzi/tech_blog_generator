@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yorzi.github.com
-title: Andy Wang's Blog
-subtitle: All About Ruby/Rails/Javascript/CoffeeScript/iOS/Ubuntu
+url: http://tech.wangyaodi.com
+title: @yorzi
+subtitle: All about Ruby/Rails/Javascript/CoffeeScript/iOS/Ubuntu
 author: Andy Wang
 simple_search: http://google.com/search
 
