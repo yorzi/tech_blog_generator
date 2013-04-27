@@ -3,7 +3,13 @@ layout: post
 title: "Map basics for noob"
 date: 2013-04-27 21:40
 comments: true
-categories: map, svg, mapbox, charting, d3, gis
+categories: 
+- map
+- svg
+- mapbox
+- charting
+- d3
+- gis
 ---
 
 A slider that I shared when Intrdea TeaHour.
