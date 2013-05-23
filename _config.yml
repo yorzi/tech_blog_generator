@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://tech.wangyaodi.com
-title: @yorzi
+title: '@yorzi'
 subtitle: great people share knowledge
 author: Andy Wang
 simple_search: http://google.com/search
@@ -68,7 +68,7 @@ delicious_user: yorzi
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: andywangshome
+disqus_short_name: refactoringthoughts
 
 # Google Analytics
 google_analytics_tracking_id: UA-17239385-1
