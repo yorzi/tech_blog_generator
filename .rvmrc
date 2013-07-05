@@ -1,1 +1,1 @@
-rvm --create use ruby-1.9.2-p320@tech-blog
+rvm --create use ruby-1.9.3-p392@tech-blog
